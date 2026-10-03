@@ -12,7 +12,8 @@ SCALAR is a lightweight, distraction-free Android unit converter designed for qu
 
 ## Download the app from here
 
-sha256:e669437c1da14374f8182ae82ad5ad0d60eac5a55cb81487918ce83b64b8fef9
+Get the pre-compiled APK directly on your device:
+**[Scalar One.apk](https://github.com/thatzblitz/OIBSIP-AndroidApplicationDevelopment-Task1-UnitConverterApplication/releases/download/apk/Scalar.One.apk)**
 
 ---
 
