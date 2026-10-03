@@ -51,11 +51,15 @@ SCALAR is a lightweight, distraction-free Android unit converter designed for qu
 
 ## Screenhots
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59337716-d208-41bc-81a7-1cc95c6f2bb6" width="260" alt="Main Screen" />
+  <img src="https://github.com/user-attachments/assets/fdbcec88-61e5-4c37-835e-8562daf04140" width="260" alt="Dropdown Selection" />
+  <img src="https://github.com/user-attachments/assets/9c2a2ed2-dea6-496d-b1ce-2f49f953b700" width="260" alt="Converted Result" />
+</p>
 
-<img width="1080" height="2392" alt="image" src="https://github.com/user-attachments/assets/32b6680c-61e5-4fe3-8ad4-a4f49c8eb175" />
+---
 
-<img width="1080" height="2392" alt="image" src="https://github.com/user-attachments/assets/fdbcec88-61e5-4c37-835e-8562daf04140" />
+## Author
 
-<img width="1080" height="2392" alt="image" src="https://github.com/user-attachments/assets/9c2a2ed2-dea6-496d-b1ce-2f49f953b700" />
-
+This app was made by Debarghya Majumder.
 
